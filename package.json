@@ -2,7 +2,7 @@
   "name": "blog",
   "description": "A Simple Bloging Platform Base On ThinkJS 3.x & Vue.js & ES2015+",
   "version": "1.0.0",
-  "author": "lscho <me@lscho.com>",
+  "author": "kai",
   "scripts": {
     "dev": "node development.js",
     "start": "npm run dev",
@@ -39,7 +39,7 @@
     "metadata": {
       "name": "blog",
       "description": "A Simple Bloging Platform Base On ThinkJS 3.x & Vue.js & ES2015+",
-      "author": "lscho <me@lscho.com>",
+      "author": "kai",
       "babel": false
     },
     "projectName": "blog",
